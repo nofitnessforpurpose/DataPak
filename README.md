@@ -11,7 +11,7 @@ A 3D Model file of a PSION Organiser II (all family) Data Pak Case. The intentio
 <BR>
 
 [![Organiser](https://img.shields.io/badge/gadget-Organiser_II-blueviolet.svg?%3D&style=flat-square)]([https://en.wikipedia.org/wiki/Psion_Organiser])
-[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotCase?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/blob/main/LICENSE) 
+[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/DataPak?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/blob/main/LICENSE) 
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/graphs/commit-activity)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotCase?style=flat-square)
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue)](https://en.wikipedia.org/wiki/ISO_10303)
