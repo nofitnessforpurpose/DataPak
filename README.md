@@ -1,7 +1,7 @@
 # Data Pack
 PSION Organiser II - Data Pack Case
 
-A 3D Model file of a PSION Organiser II (all family) Data Pak Case. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined.
+A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
