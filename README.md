@@ -14,7 +14,7 @@ A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intenti
 [![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/DataPak?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/blob/main/LICENSE) 
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/graphs/commit-activity)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/DataPak?style=flat-square)
-[![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue)](https://en.wikipedia.org/wiki/ISO_10303)
+[![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 
 <br>  
 All the files are required for a complete case assembly. The default repository format is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. <br>  
