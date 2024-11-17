@@ -23,7 +23,7 @@ All the files are required for a complete case assembly. The default repository 
 <br>
 <br>
 
-## Consderations
+## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 
 ## Please note:  
