@@ -26,6 +26,9 @@ All the files are required for a complete case assembly. The default repository 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 
+## Questions / Discussion
+See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+
 ## Please note:  
 All information is For Indication only.
 No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
