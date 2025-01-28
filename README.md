@@ -23,6 +23,13 @@ All the files are required for a complete case assembly. The default repository 
 <br>
 <br>
 
+### On-Line Preview   
+Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
+ - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/DataPak/blob/main/Top-Cover%2001.stp">here</a>.  
+ - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/DataPak/blob/main/Outer%2001.stp">here</a>.  
+ 
+<BR>
+
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 
