@@ -33,8 +33,12 @@ Models might be viewed on line using the following links. Noting display of any 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
 
+<BR>
+
 ## Questions / Discussion
 See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+
+<BR>
 
 ## Please note:  
 All information is For Indication only.
